@@ -1,1 +1,1 @@
-# assets
+# THOR Nodes assets
